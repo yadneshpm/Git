@@ -1,0 +1,25 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadneshpm/Git.git"
+  },
+  "author": "Yadnesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadneshpm/Git/issues"
+  },
+  "homepage": "https://github.com/yadneshpm/Git#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4",
+    "save-dev": "0.0.1-security"
+  }
+}
